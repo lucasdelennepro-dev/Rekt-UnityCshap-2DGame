@@ -1,6 +1,6 @@
 # 👾 [REKT] - Jeux 2D via Unity 3D
 -> Projet personnel de jeux vidéo 2D expérimental de type "craft survie" (projet developper afin de mettre en pratique mes apprentissages).
-(toutes les ressources utilisées sont personnelles / créer par moi-même)
+ℹ️ Toutes les ressources utilisées sont personnelles / créer par moi-même
 
 ## 🚀 Fonctionnalités et systèmes
 [Personnage]
